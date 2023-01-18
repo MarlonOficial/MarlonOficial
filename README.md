@@ -4,7 +4,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5533998809622&text=Ol%C3%A1!%20Marlon)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonmaresofc/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marlonmares)
-![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonOficial _icons=true&theme=transparent)
+![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonOficial_icons=true&theme=onedark)
 [![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonOficial)](https://github.com/MarlonOficial/github-readme-stats)
 
 ### Tecnologias que utilizo no dia
