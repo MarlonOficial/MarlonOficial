@@ -19,3 +19,5 @@
 </div><br/>
 
 Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero.
+
+ ![Snake animation](https://github.com/MarlonOficial/MarlonOficial/blob/output/github-contribution-grid-snake.svg)
